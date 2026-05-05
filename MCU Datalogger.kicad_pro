@@ -416,13 +416,17 @@
         "uuid": "832ad2a6-1a19-40c8-8feb-ef3c152c556c"
       }
     ],
-    "used_designators": "Y1-2,U1-4,R1-5,R7,J1,J3-4,D1-2,C1-3,C5,H1-4,BT1",
+    "used_designators": "#FLG1,#PWR1-6,Y1-2,U1-4,R1-5,R7,J1,J3-4,D1-2,C1-3,C5,H1-4,BT1",
     "variants": []
   },
   "sheets": [
     [
       "832ad2a6-1a19-40c8-8feb-ef3c152c556c",
       "Root"
+    ],
+    [
+      "cd134852-85ea-4c44-b481-f91e96b8958e",
+      "Connectors"
     ]
   ],
   "text_variables": {},
