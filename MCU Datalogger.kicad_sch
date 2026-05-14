@@ -5,7 +5,7 @@
 	(uuid "832ad2a6-1a19-40c8-8feb-ef3c152c556c")
 	(paper "A4")
 	(title_block
-		(title "MCU Datalogger")
+		(title "${project_name}")
 		(date "2026-04-26")
 		(rev "1")
 	)
