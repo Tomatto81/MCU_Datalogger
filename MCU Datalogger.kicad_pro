@@ -514,12 +514,15 @@
       },
       {
         "bus_width": 12,
+        "clearance": 0.25,
         "line_style": 0,
         "name": "Power",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "priority": 0,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.35,
         "tuning_profile": "",
+        "via_diameter": 0.9,
         "wire_width": 6
       }
     ],
