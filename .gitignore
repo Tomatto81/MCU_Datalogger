@@ -4,3 +4,4 @@ fp-inFo—cache
 *.kicad_prl
 MCU Datalogger-backups/*
 MCUDataloggerGerber/*
+.history/
