@@ -155,7 +155,7 @@
 			(mirror no)
 			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "./")
+			(outputdirectory "../MCU Datalogger 4-layer PCB gbr/")
 		)
 	)
 	(property "project_name" "MCU Datalogger with memory and clock")
