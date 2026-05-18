@@ -1,1 +1,6 @@
-MCU_Datalogger.kicad_pcb merge=pcb
+*.kicad_sch binary
+*.kicad_pcb binary
+*.kicad_pro binary
+fp-info-cache binary
+*.kicad_mod binary
+*.kicad_sym binary
