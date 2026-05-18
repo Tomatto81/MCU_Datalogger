@@ -4089,6 +4089,16 @@
 		)
 		(uuid "29d84877-51d2-47ad-bf5a-eb4815823823")
 	)
+	(label "Abc123"
+		(at 193.04 27.94 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "3b188afd-2c4c-4c7b-9b26-3e8b77e1fa2f")
+	)
 	(label "D5"
 		(at 231.14 46.99 0)
 		(effects
