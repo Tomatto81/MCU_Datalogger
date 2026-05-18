@@ -4089,16 +4089,6 @@
 		)
 		(uuid "29d84877-51d2-47ad-bf5a-eb4815823823")
 	)
-	(label "Abc123"
-		(at 193.04 27.94 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "3b188afd-2c4c-4c7b-9b26-3e8b77e1fa2f")
-	)
 	(label "D5"
 		(at 231.14 46.99 0)
 		(effects
@@ -4613,7 +4603,7 @@
 			(uuid "d79b7bb0-76d5-40eb-a5cf-199e0262b5e5")
 		)
 		(instances
-			(project "MCU Datalogger"
+			(project "MCU_Datalogger"
 				(path "/832ad2a6-1a19-40c8-8feb-ef3c152c556c"
 					(reference "R4")
 					(unit 1)
@@ -4699,7 +4689,7 @@
 			)
 		)
 		(instances
-			(project "MCU Datalogger"
+			(project "MCU_Datalogger"
 				(path "/832ad2a6-1a19-40c8-8feb-ef3c152c556c"
 					(reference "H4")
 					(unit 1)
@@ -4777,7 +4767,7 @@
 			(uuid "1387fa37-c7b2-4b05-815c-f96ab2f9791b")
 		)
 		(instances
-			(project "MCU Datalogger"
+			(project "MCU_Datalogger"
 				(path "/832ad2a6-1a19-40c8-8feb-ef3c152c556c"
 					(reference "#FLG02")
 					(unit 1)
@@ -4855,7 +4845,7 @@
 			(uuid "d503ad1b-73b5-45ce-9caf-048f386c4ab1")
 		)
 		(instances
-			(project "MCU Datalogger"
+			(project "MCU_Datalogger"
 				(path "/832ad2a6-1a19-40c8-8feb-ef3c152c556c"
 					(reference "#PWR04")
 					(unit 1)
@@ -4934,7 +4924,7 @@
 			(uuid "76167f8f-6dc3-455e-aa6d-d38f57cef303")
 		)
 		(instances
-			(project "MCU Datalogger"
+			(project "MCU_Datalogger"
 				(path "/832ad2a6-1a19-40c8-8feb-ef3c152c556c"
 					(reference "#FLG03")
 					(unit 1)
@@ -5026,7 +5016,7 @@
 			(uuid "a03e3092-612d-472b-8ebc-b0510e96b4c6")
 		)
 		(instances
-			(project "MCU Datalogger"
+			(project "MCU_Datalogger"
 				(path "/832ad2a6-1a19-40c8-8feb-ef3c152c556c"
 					(reference "Y1")
 					(unit 1)
@@ -5116,7 +5106,7 @@
 			(uuid "c589b395-7dc0-42d8-bc23-55380430a9ea")
 		)
 		(instances
-			(project "MCU Datalogger"
+			(project "MCU_Datalogger"
 				(path "/832ad2a6-1a19-40c8-8feb-ef3c152c556c"
 					(reference "R6")
 					(unit 1)
@@ -5194,7 +5184,7 @@
 			(uuid "3ec92c4c-a390-498e-96e9-a535700b499a")
 		)
 		(instances
-			(project "MCU Datalogger"
+			(project "MCU_Datalogger"
 				(path "/832ad2a6-1a19-40c8-8feb-ef3c152c556c"
 					(reference "#PWR01")
 					(unit 1)
@@ -5286,7 +5276,7 @@
 			(uuid "f37418c5-06d9-41e7-91ce-4a76ff63d193")
 		)
 		(instances
-			(project "MCU Datalogger"
+			(project "MCU_Datalogger"
 				(path "/832ad2a6-1a19-40c8-8feb-ef3c152c556c"
 					(reference "C1")
 					(unit 1)
@@ -5376,7 +5366,7 @@
 			(uuid "46b6490c-191e-4918-ae24-8558d94ae4ad")
 		)
 		(instances
-			(project "MCU Datalogger"
+			(project "MCU_Datalogger"
 				(path "/832ad2a6-1a19-40c8-8feb-ef3c152c556c"
 					(reference "R5")
 					(unit 1)
@@ -5468,7 +5458,7 @@
 			(uuid "cb243a3e-ebb0-4540-91ef-7a5e7a1b22eb")
 		)
 		(instances
-			(project "MCU Datalogger"
+			(project "MCU_Datalogger"
 				(path "/832ad2a6-1a19-40c8-8feb-ef3c152c556c"
 					(reference "R1")
 					(unit 1)
@@ -5593,7 +5583,7 @@
 			(uuid "30ead29c-9288-4a66-badc-ce3e6778f256")
 		)
 		(instances
-			(project "MCU Datalogger"
+			(project "MCU_Datalogger"
 				(path "/832ad2a6-1a19-40c8-8feb-ef3c152c556c"
 					(reference "BT1")
 					(unit 1)
@@ -5671,7 +5661,7 @@
 			(uuid "51bc706c-18c9-4dbf-83e9-fb2e4b1264d7")
 		)
 		(instances
-			(project "MCU Datalogger"
+			(project "MCU_Datalogger"
 				(path "/832ad2a6-1a19-40c8-8feb-ef3c152c556c"
 					(reference "#PWR06")
 					(unit 1)
@@ -5749,7 +5739,7 @@
 			(uuid "dbd3847f-c8e0-4d97-b26b-a0b86e0f3890")
 		)
 		(instances
-			(project "MCU Datalogger"
+			(project "MCU_Datalogger"
 				(path "/832ad2a6-1a19-40c8-8feb-ef3c152c556c"
 					(reference "#FLG01")
 					(unit 1)
@@ -5827,7 +5817,7 @@
 			(uuid "cc331a87-6aea-45b7-8828-18841c788e64")
 		)
 		(instances
-			(project "MCU Datalogger"
+			(project "MCU_Datalogger"
 				(path "/832ad2a6-1a19-40c8-8feb-ef3c152c556c"
 					(reference "#PWR07")
 					(unit 1)
@@ -6033,7 +6023,7 @@
 			(uuid "a30543f1-b29f-4ccd-a469-58e07853c5a8")
 		)
 		(instances
-			(project "MCU Datalogger"
+			(project "MCU_Datalogger"
 				(path "/832ad2a6-1a19-40c8-8feb-ef3c152c556c"
 					(reference "U1")
 					(unit 1)
@@ -6125,7 +6115,7 @@
 			(uuid "f3763707-c242-43ca-8755-5d25e645c110")
 		)
 		(instances
-			(project "MCU Datalogger"
+			(project "MCU_Datalogger"
 				(path "/832ad2a6-1a19-40c8-8feb-ef3c152c556c"
 					(reference "C5")
 					(unit 1)
@@ -6228,7 +6218,7 @@
 			(uuid "e899e221-874f-4078-90ce-b22e289d69c7")
 		)
 		(instances
-			(project "MCU Datalogger"
+			(project "MCU_Datalogger"
 				(path "/832ad2a6-1a19-40c8-8feb-ef3c152c556c"
 					(reference "D2")
 					(unit 1)
@@ -6306,7 +6296,7 @@
 			(uuid "0e00e608-25f0-4738-8f16-759a0784c115")
 		)
 		(instances
-			(project "MCU Datalogger"
+			(project "MCU_Datalogger"
 				(path "/832ad2a6-1a19-40c8-8feb-ef3c152c556c"
 					(reference "#PWR03")
 					(unit 1)
@@ -6407,7 +6397,7 @@
 			(uuid "361dd3f6-dc2c-49eb-bd4d-bc21da2cd38b")
 		)
 		(instances
-			(project "MCU Datalogger"
+			(project "MCU_Datalogger"
 				(path "/832ad2a6-1a19-40c8-8feb-ef3c152c556c"
 					(reference "D1")
 					(unit 1)
@@ -6497,7 +6487,7 @@
 			(uuid "044f3b6f-6593-44bd-83a9-188513dc3b79")
 		)
 		(instances
-			(project "MCU Datalogger"
+			(project "MCU_Datalogger"
 				(path "/832ad2a6-1a19-40c8-8feb-ef3c152c556c"
 					(reference "C3")
 					(unit 1)
@@ -6587,7 +6577,7 @@
 			(uuid "47bc480a-03fa-44d2-b2fe-0900e3526743")
 		)
 		(instances
-			(project "MCU Datalogger"
+			(project "MCU_Datalogger"
 				(path "/832ad2a6-1a19-40c8-8feb-ef3c152c556c"
 					(reference "C2")
 					(unit 1)
@@ -6679,7 +6669,7 @@
 			(uuid "a0e33f52-e89f-4168-8ba2-2bcda35369d2")
 		)
 		(instances
-			(project "MCU Datalogger"
+			(project "MCU_Datalogger"
 				(path "/832ad2a6-1a19-40c8-8feb-ef3c152c556c"
 					(reference "R3")
 					(unit 1)
@@ -6765,7 +6755,7 @@
 			)
 		)
 		(instances
-			(project "MCU Datalogger"
+			(project "MCU_Datalogger"
 				(path "/832ad2a6-1a19-40c8-8feb-ef3c152c556c"
 					(reference "H3")
 					(unit 1)
@@ -6875,7 +6865,7 @@
 			(uuid "1134e689-75c7-406e-9f28-8b4bf7b19939")
 		)
 		(instances
-			(project "MCU Datalogger"
+			(project "MCU_Datalogger"
 				(path "/832ad2a6-1a19-40c8-8feb-ef3c152c556c"
 					(reference "U2")
 					(unit 1)
@@ -6953,7 +6943,7 @@
 			(uuid "0b8b0759-39ff-41cb-99c7-fbe7299ff5e8")
 		)
 		(instances
-			(project "MCU Datalogger"
+			(project "MCU_Datalogger"
 				(path "/832ad2a6-1a19-40c8-8feb-ef3c152c556c"
 					(reference "#PWR02")
 					(unit 1)
@@ -7045,7 +7035,7 @@
 			(uuid "0daa0e2c-1653-41e3-bd75-525832b29d60")
 		)
 		(instances
-			(project "MCU Datalogger"
+			(project "MCU_Datalogger"
 				(path "/832ad2a6-1a19-40c8-8feb-ef3c152c556c"
 					(reference "R2")
 					(unit 1)
@@ -7131,7 +7121,7 @@
 			)
 		)
 		(instances
-			(project "MCU Datalogger"
+			(project "MCU_Datalogger"
 				(path "/832ad2a6-1a19-40c8-8feb-ef3c152c556c"
 					(reference "H2")
 					(unit 1)
@@ -7217,7 +7207,7 @@
 			)
 		)
 		(instances
-			(project "MCU Datalogger"
+			(project "MCU_Datalogger"
 				(path "/832ad2a6-1a19-40c8-8feb-ef3c152c556c"
 					(reference "H1")
 					(unit 1)
@@ -7327,7 +7317,7 @@
 			(uuid "2883ccca-37a7-45f0-a0d3-2dfd33610fb5")
 		)
 		(instances
-			(project "MCU Datalogger"
+			(project "MCU_Datalogger"
 				(path "/832ad2a6-1a19-40c8-8feb-ef3c152c556c"
 					(reference "U3")
 					(unit 1)
@@ -7405,7 +7395,7 @@
 			(uuid "c33b1143-f5ab-48f4-a67e-388097b3c68e")
 		)
 		(instances
-			(project "MCU Datalogger"
+			(project "MCU_Datalogger"
 				(path "/832ad2a6-1a19-40c8-8feb-ef3c152c556c"
 					(reference "#PWR05")
 					(unit 1)
@@ -7495,7 +7485,7 @@
 			(uuid "343561ca-6d42-4f4f-940f-53d68560a61a")
 		)
 		(instances
-			(project "MCU Datalogger"
+			(project "MCU_Datalogger"
 				(path "/832ad2a6-1a19-40c8-8feb-ef3c152c556c"
 					(reference "C4")
 					(unit 1)
@@ -7821,7 +7811,7 @@
 			(uuid "3631d800-97d2-4b35-a2b8-30243ca38176")
 		)
 		(instances
-			(project "MCU Datalogger"
+			(project "MCU_Datalogger"
 				(path "/832ad2a6-1a19-40c8-8feb-ef3c152c556c"
 					(reference "U4")
 					(unit 1)
@@ -7913,7 +7903,7 @@
 			(uuid "83a1bbc1-ed19-49a3-851e-3413b9096365")
 		)
 		(instances
-			(project "MCU Datalogger"
+			(project "MCU_Datalogger"
 				(path "/832ad2a6-1a19-40c8-8feb-ef3c152c556c"
 					(reference "Y2")
 					(unit 1)
@@ -8005,7 +7995,7 @@
 			(uuid "97811a8b-5fee-4d79-937e-88962a444793")
 		)
 		(instances
-			(project "MCU Datalogger"
+			(project "MCU_Datalogger"
 				(path "/832ad2a6-1a19-40c8-8feb-ef3c152c556c"
 					(reference "R7")
 					(unit 1)
@@ -8212,7 +8202,7 @@
 			)
 		)
 		(instances
-			(project "MCU Datalogger"
+			(project "MCU_Datalogger"
 				(path "/832ad2a6-1a19-40c8-8feb-ef3c152c556c"
 					(page "2")
 				)

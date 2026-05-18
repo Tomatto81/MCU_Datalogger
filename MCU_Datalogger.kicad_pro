@@ -54,7 +54,7 @@
           "border_hatch_pitch": 0.5,
           "corner_radius": 0.0,
           "corner_smoothing": 0,
-          "fill_mode": 0,
+          "fill_mode": 1,
           "hatch_gap": 1.5,
           "hatch_orientation": 0.0,
           "hatch_smoothing_level": 0,
@@ -676,7 +676,7 @@
   "sheets": [
     [
       "832ad2a6-1a19-40c8-8feb-ef3c152c556c",
-      "Root"
+      "MCU_Datalogger"
     ],
     [
       "cd134852-85ea-4c44-b481-f91e96b8958e",
