@@ -1,0 +1,16 @@
+"","Sourced","Placed","References","Value","Footprint","Quantity"
+1,"","","C1, C4, C5","100nF","C_0805_2012Metric",3
+2,"","","C2, C3","22pF","C_0805_2012Metric",2
+3,"","","R1, R2, R6","10K","R_0805_2012Metric",3
+4,"","","R3, R4","4.7K","R_0805_2012Metric",2
+5,"","","R5, R7",330,"R_0805_2012Metric",2
+6,"","","D1, D2","LED","LED_0805_2012Metric",2
+7,"","","U2, U3","24LC1025","SOIC-8_5.3x5.3mm_P1.27mm",2
+8,"","","U1","DS1337S_","SOIC127P600X175-8N",1
+9,"","","U4","ATMEGA328P-AU","QFP80P900X900X120-32N",1
+10,"","","Y1","32.768 KHz","Crystal_SMD_5032-2Pin_5.0x3.2mm_HandSoldering",1
+11,"","","Y2","16 MHz","Crystal_SMD_5032-2Pin_5.0x3.2mm_HandSoldering",1
+12,"","","BT1","Battery","PinHeader_1x02_P2.54mm_Vertical",1
+13,"","","J1, J3","Conn_01x04_Pin","PinHeader_1x04_P2.54mm_Vertical",2
+14,"","","J2","Conn_01x09_Pin","PinHeader_1x09_P2.54mm_Vertical",1
+15,"","","J4","Conn_02x03_Odd_Even","PinHeader_2x03_P2.54mm_Vertical",1
